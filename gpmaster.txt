@@ -1,4 +1,4 @@
-*High Grade Catalouge
+*HG Catalouge
 
 H001 Gun Cannon
 H002 Gyan
@@ -111,7 +111,7 @@ H108 ReZEL commander
 H109 Gundam X
 H110 G Gundam
 H111 ZZ Gundam
-H112 Geara Zulu : Angelo's 
+H112 Geara Zulu : Angelo's
 H113 GM type-C
 H114 Ball Twin Set
 H115 Delta Plus
@@ -280,7 +280,7 @@ HT13 Gundam Ground-S
 Hg1 RX-78 Gundam
 Hg1o RX-78 ver. Odaiba
 Hg17 RX-78 7-11 color
-Hg1a RX-78 ANA 
+Hg1a RX-78 ANA
 Hg1s RX-78 ver. Shizuoka
 Hg1g RX-78 ver. G3
 Hg1gg RX-78 Premium Gold
@@ -332,55 +332,55 @@ HE5 Gundam Mk-II
 HE6 Marasai
 HE7 Zeta Gundam
 
-Hyaku-Shiki (Red coating)
-Zeong (Red version)
-Rx-78 G3 & Zeong (Pink)
-Zeta Coating set
-RX-78 + Trailer E.F.
-RX-78 (Santori Mus. clear)
-Gundam Mk-II (clear)
-Hyaku-Shiki (clear)
-Zeta Gundam (clear)
-Zaku II (MS igloo 1)
-Zaku II (MS igloo 2)
-GM : Gundam the Ride
-Zaku II : Char's (clear)
-RX-78 (gloss injection)
-Z gundam (gloss injection)
-RX-78(Gunpra Expo clear) 
-Zaku II : Char's (EXF)
-Operation V Clear Color
-Char's MS set Clear Color
-Char's Rick Dom (EXF)
-RX-78 + Trailer Coating
-G30th Premium Archive
-Unicorn - D Pearl Clear
-Unicorn - U Pearl Clear
-Unicorn - D ANA ver.
-Z Gundam Clear Color
-ZZ Gundam Clear Color
-GP01Fb - Linkin Park ver.
-GM type C & Ball type C
-Zaku II - 7/11 ver.
-Kshatriya Pearl Clear
-Sinanju Red Comet
-GM III - Desert Color
-GM II - Desert Color
-Geara Doga [Full Frontal]
-Blue Destiny 2 :Omega Color
-Banshee D.M. Clear Ver.
-Banshee U.M. Clear Ver.
-Rosen Zulu. Clear Ver.
-Gato's Gelgoog
-Extreme Gundam type-LEOS
-Unicorn D.M. Green Frame
-Rebawoo
-Drz-C [Unicorn Ver.]
-Silver Bullet Funnel Test Type
-Jegan D type
-Geara Zulu [Cuaron]
-Geara Zulu [Gilboa Sant]
-Asshimar Green Divers
+HLS1 Hyaku-Shiki (Red coating)
+HLS1 Zeong (Red version)
+HLS1 Rx-78 G3 & Zeong (Pink)
+HLS1 Zeta Coating set
+HLS1 RX-78 + Trailer E.F.
+HLS1 RX-78 (Santori Mus. clear)
+HLS1 Gundam Mk-II (clear)
+HLS1 Hyaku-Shiki (clear)
+HLS1 Zeta Gundam (clear)
+HLS1 Zaku II (MS igloo 1)
+HLS1 Zaku II (MS igloo 2)
+HLS1 GM : Gundam the Ride
+HLS1 Zaku II : Char's (clear)
+HLS1 RX-78 (gloss injection)
+HLS1 Z gundam (gloss injection)
+HLS1 RX-78(Gunpra Expo clear)
+HLS1 Zaku II : Char's (EXF)
+HLS1 Operation V Clear Color
+HLS1 Char's MS set Clear Color
+HLS1 Char's Rick Dom (EXF)
+HLS1 RX-78 + Trailer Coating
+HLS1 G30th Premium Archive
+HLS1 Unicorn - D Pearl Clear
+HLS1 Unicorn - U Pearl Clear
+HLS1 Unicorn - D ANA ver.
+HLS1 Z Gundam Clear Color
+HLS1 ZZ Gundam Clear Color
+HLS1 GP01Fb - Linkin Park ver.
+HLS1 GM type C & Ball type C
+HLS1 Zaku II - 7/11 ver.
+HLS1 Kshatriya Pearl Clear
+HLS1 Sinanju Red Comet
+HLS1 GM III - Desert Color
+HLS1 GM II - Desert Color
+HLS1 Geara Doga [Full Frontal]
+HLS1 Blue Destiny 2 :Omega Color
+HLS1 Banshee D.M. Clear Ver.
+HLS1 Banshee U.M. Clear Ver.
+HLS1 Rosen Zulu. Clear Ver.
+HLS1 Gato's Gelgoog
+HLS1 Extreme Gundam type-LEOS
+HLS1 Unicorn D.M. Green Frame
+HLS1 Rebawoo
+HLS1 Drz-C [Unicorn Ver.]
+HLS1 Silver Bullet Funnel Test Type
+HLS1 Jegan D type
+HLS1 Geara Zulu [Cuaron]
+HLS1 Geara Zulu [Gilboa Sant]
+HLS1 Asshimar Green Divers
 
 *RG Catalog
 
@@ -649,207 +649,192 @@ MP8 Ingram 3 (reactive armor)
 MP9 Ingram Special Set
 MD1 Dunbine
 
-● Club-G
-▷ Tallgeese II
-▷ Nemo [Unicorn Ver.]
-▷ Nemo [Desert Color]
-▷ Uma Lightning's Zaku II
-▷ J.Ridden's Zaku II
-▷ Crossbone Gundam X2
-▷ Marasai [Unicorn Ver.]
-▷ O2 Banshee Last Battle
-▷ Z'gok [Unicorn Ver.]
-▷ Zaku Cannon [Unicorn Ver]
-▷ Dozle Zabi's Zaku II
-▷ Ptototype Gundam
-▷ Full Armor Gundam [Blue]
-▷ Astray Red Frame
-▷ Astray Noir
-▷ Crossbone Gundam X3
-▷ Gelgoog Cannon [MSV]
-▷ Gouf M'quve's use
-▷ S-Gundam Booster unit
-▷ Zaku II : Garma Zabi Use
-▷ Zaku II : Black Tri Star
+MLS1 Tallgeese II
+MLS1 Nemo [Unicorn Ver.]
+MLS1 Nemo [Desert Color]
+MLS1 Uma Lightning's Zaku II
+MLS1 J.Ridden's Zaku II
+MLS1 Crossbone Gundam X2
+MLS1 Marasai [Unicorn Ver.]
+MLS1 O2 Banshee Last Battle
+MLS1 Z'gok [Unicorn Ver.]
+MLS1 Zaku Cannon [Unicorn Ver]
+MLS1 Dozle Zabi's Zaku II
+MLS1 Ptototype Gundam
+MLS1 Full Armor Gundam [Blue]
+MLS1 Astray Red Frame
+MLS1 Astray Noir
+MLS1 Crossbone Gundam X3
+MLS1 Gelgoog Cannon [MSV]
+MLS1 Gouf M'quve's use
+MLS1 S-Gundam Booster unit
+MLS1 Zaku II : Garma Zabi Use
+MLS1 Zaku II : Black Tri Star
 
-● Crystal Version
-▷ Gundam RX-78
-▷ Zaku II (Char's)
-▷ Zaku II
+MLS1 Gundam RX-78
+MLS1 Zaku II (Char's)
+MLS1 Zaku II
 
-● Coating Version 
-▷ Gundam RX-78
-▷ Zeta Gundam
-▷ Zaku II (Char's)
-▷ Gundam GP01FB
-▷ Zaku II
-▷ Gundam GP02
-▷ God Gundam H.M.
-▷ Master Gundam H.M.
-▷ Freedom Gundam
-▷ Strike Freedom E.F.
-▷ Sazabi : Metalic coat.
-▷ Nu Gundam : Metal co.
-▷ Unicorn Titanium Finish
-▷ Sinanju Titanium Finish
-▷ RX-78 Titanium Finish
-▷ Banshee Titanium Finish
-▷ Nu Gundam ver. Ka  T.F.
-▷ Unicorn T.F. Twin Frame
+MLS1 Gundam RX-78
+MLS1 Zeta Gundam
+MLS1 Zaku II (Char's)
+MLS1 Gundam GP01FB
+MLS1 Zaku II
+MLS1 Gundam GP02
+MLS1 God Gundam H.M.
+MLS1 Master Gundam H.M.
+MLS1 Freedom Gundam
+MLS1 Strike Freedom E.F.
+MLS1 Sazabi : Metalic coat.
+MLS1 Nu Gundam : Metal co.
+MLS1 Unicorn Titanium Finish
+MLS1 Sinanju Titanium Finish
+MLS1 RX-78 Titanium Finish
+MLS1 Banshee Titanium Finish
+MLS1 Nu Gundam ver. Ka  T.F.
+MLS1 Unicorn T.F. Twin Frame
 
-● Special Limited
-▷ RX-78 MG 10th year
-▷ Zeta Gundam 3
-▷ RX-78 OYW Anime color
-▷ Exia Trans-am mode
+MLS1 RX-78 MG 10th year
+MLS1 Zeta Gundam 3
+MLS1 RX-78 OYW Anime color
+MLS1 Exia Trans-am mode
 
-● One Year War (Pegasus)
-▷ Zaku II (OYW)
-▷ Gouf (OYW)
-▷ Dom (OYW)
-▷ Gelgoog~Char's (OYW)
+MLS1 Zaku II (OYW)
+MLS1 Gouf (OYW)
+MLS1 Dom (OYW)
+MLS1 Gelgoog~Char's (OYW)
 
-● HD Color ver.
-▷ Mk-II v2 A.E.U.G. (HD)
-▷ Mk-II v2 Titans (HD)
-▷ Z Gundam v2 (HD)
-▷ Hyaku-shiki (HD)
+MLS1 Mk-II v2 A.E.U.G. (HD)
+MLS1 Mk-II v2 Titans (HD)
+MLS1 Z Gundam v2 (HD)
+MLS1 Hyaku-shiki (HD)
 
-● MS Egloo II ver.
-▷ Zaku II v2.0 ~ Igloo
-▷ Gouf Custom ~ Igloo
-▷ Dom ~ Igloo
+MLS1 Zaku II v2.0 ~ Igloo
+MLS1 Gouf Custom ~ Igloo
+MLS1 Dom ~ Igloo
 
-● Special Option kit
-▷ S.F. Gundam Full Burst
-▷ Destiny Gundam EBM.
-▷ Shin Musha : Sengoku
-▷ Exia : Ignition mode
-▷ Unicorn HD + MS cage
-▷ Freedom 2.0 + Kira Yamato
-▷ Gundam The Origin SP
-▷ Providence Gundam P.E.
+MLS1 S.F. Gundam Full Burst
+MLS1 Destiny Gundam EBM.
+MLS1 Shin Musha : Sengoku
+MLS1 Exia : Ignition mode
+MLS1 Unicorn HD + MS cage
+MLS1 Freedom 2.0 + Kira Yamato
+MLS1 Gundam The Origin SP
+MLS1 Providence Gundam P.E.
 
-● G30th Speacial Clear Parts
-▷ Dom
-▷ ZZ Gundam
-▷ RX-78[G]
-▷ Sazabi
-▷ Nu Gundam
-▷ Kampfer
-▷ Gouf Custom
-▷ Hyaku-Shiki
-▷ God Gundam
-▷ Gun Cannon
-▷ Aile Strike Gundam
-▷ Char's Z'gok
-▷ Freedom Gundam
-▷ Wing Gundam 0 Custom
-▷ Ball ver. Ka
-▷ RX-78 O.Y.W. Anime color
-▷ Acguy
-▷ Gundam Mk-II v2.0 AEUG
-▷ Z Gundam v2.0
-▷ Gyan
-▷ Gundam F91
-▷ Cross Bone Gundam
-▷ Strike Freedom Gundam
-▷ Hi-nu Gundam
-▷ Strike Noir Gundam
-▷ Zaku II v2.0
-▷ Char's Zaku II v2.0
-▷ Char's Gelgoog v2.0
-▷ Destiny Gundam
-▷ Force Impulse Gundam
-▷ RX-78 v2.0
-▷ Infinite Justice Gundam
-▷ GM v2.0
-▷ Gouf v2.0
-▷ Gundam Exia
-▷ Guntank
-▷ V Gundam Ver.ka
-▷ Gundam Astray Red Frame
+MLS1 Dom
+MLS1 ZZ Gundam
+MLS1 RX-78[G]
+MLS1 Sazabi
+MLS1 Nu Gundam
+MLS1 Kampfer
+MLS1 Gouf Custom
+MLS1 Hyaku-Shiki
+MLS1 God Gundam
+MLS1 Gun Cannon
+MLS1 Aile Strike Gundam
+MLS1 Char's Z'gok
+MLS1 Freedom Gundam
+MLS1 Wing Gundam 0 Custom
+MLS1 Ball ver. Ka
+MLS1 RX-78 O.Y.W. Anime color
+MLS1 Acguy
+MLS1 Gundam Mk-II v2.0 AEUG
+MLS1 Z Gundam v2.0
+MLS1 Gyan
+MLS1 Gundam F91
+MLS1 Cross Bone Gundam
+MLS1 Strike Freedom Gundam
+MLS1 Hi-nu Gundam
+MLS1 Strike Noir Gundam
+MLS1 Zaku II v2.0
+MLS1 Char's Zaku II v2.0
+MLS1 Char's Gelgoog v2.0
+MLS1 Destiny Gundam
+MLS1 Force Impulse Gundam
+MLS1 RX-78 v2.0
+MLS1 Infinite Justice Gundam
+MLS1 GM v2.0
+MLS1 Gouf v2.0
+MLS1 Gundam Exia
+MLS1 Guntank
+MLS1 V Gundam Ver.ka
+MLS1 Gundam Astray Red Frame
 
-Limited Edition
+MLS1 Freedom Gundam ~ clear
+MLS1 Strike Freedom ~ clear
+MLS1 Stike Rouge Clear
+MLS1 RX-78 v2.0 Clear
+MLS1 RX-78 v2.0 Mechanical Clear
+MLS1 RX-78 v2.0 Smoked Clear
+MLS1 Destiny Gundam : Clear
+MLS1 Zaku II v2.0 : Clear
+MLS1 Char's Zaku II v2.0 : Clear
+MLS1 Gouf v2.0 : Clear
+MLS1 RX-78 v1.5 All Clear
+MLS1 Nu Gundam All Clear
+MLS1 Aile Strike All Clear
+MLS1 OO QAN[T] Clear
 
-◆ Clear version
-▷ Freedom Gundam ~ clear
-▷ Strike Freedom ~ clear
-▷ Stike Rouge Clear
-▷ RX-78 v2.0 Clear
-▷ RX-78 v2.0 Mechanical Clear
-▷ RX-78 v2.0 Smoked Clear
-▷ Destiny Gundam : Clear
-▷ Zaku II v2.0 : Clear
-▷ Char's Zaku II v2.0 : Clear
-▷ Gouf v2.0 : Clear
-▷ RX-78 v1.5 All Clear
-▷ Nu Gundam All Clear
-▷ Aile Strike All Clear
-▷ OO QAN[T] Clear
+MLS1 Rick-Dom coat/clear
+MLS1 Super Gundam metal clear
+MLS1 Gundam NT-1 metal clear
 
-◆ Coating & Clear ver.
-▷ Rick-Dom coat/clear
-▷ Super Gundam metal clear
-▷ Gundam NT-1 metal clear
+MLS1 Dom Ramba Ral's coating
+MLS1 Rick-Dom Chr's coating
+MLS1 RX-78 Casbal's coating
+MLS1 Gelgoog Gato's coating
+MLS1 Gundam GP03 coating
+MLS1 RX-78 v1.5 coating
+MLS1 Wing 0 Custom PM coating
+MLS1 RX-78 v.O.Y.W~Extra finish
+MLS1 Gyan Extra Finish version
+MLS1 Char's Z'gok : Extra Finish
+MLS1 Char's Zaku II v2.0 ver. E.P.
+MLS1 Zaku II v2.0 ver. E.P.
+MLS1 RX-78 v1.0 Titanium Finish
+MLS1 RX-78 v.OYW Chrom Plating
+MLS1 RX-78 v.OYW Titanium Finish
+MLS1 RX-78 v2.0 Gold Plating
+MLS1 Z Gundam v2.0 Extra Finish
 
-◆ Coating version
-▷ Dom Ramba Ral's coating
-▷ Rick-Dom Chr's coating
-▷ RX-78 Casbal's coating
-▷ Gelgoog Gato's coating
-▷ Gundam GP03 coating
-▷ RX-78 v1.5 coating
-▷ Wing 0 Custom PM coating
-▷ RX-78 v.O.Y.W~Extra finish
-▷ Gyan Extra Finish version
-▷ Char's Z'gok : Extra Finish
-▷ Char's Zaku II v2.0 ver. E.P.
-▷ Zaku II v2.0 ver. E.P.
-▷ RX-78 v1.0 Titanium Finish
-▷ RX-78 v.OYW Chrom Plating
-▷ RX-78 v.OYW Titanium Finish
-▷ RX-78 v2.0 Gold Plating
-▷ Z Gundam v2.0 Extra Finish
+MLS1 Aile Strike Gundam (PSoff)
+MLS1 RX-78 Special Color
+MLS1 RX-78 v1.5 : v.kawaguchi
+MLS1 Zaku II v2.0 : v.kawaguchi
+MLS1 Zaku II v2.0  Real type
+MLS1 RX-78 OYW : Yahoo!
+MLS1 RX-78 OYW : G3
+MLS1 RX-78 OYW : Gundam Crisis
+MLS1 Aile Strike + Bazooka
+MLS1 Zaku II R1 v2.0 ver. Proshop
+MLS1 Wing 0 Custom Pearl gloss
+MLS1 Ball Factory Image Color
+MLS1 Musha Mk-II ver. Tokugawa
+MLS1 Heine's Destiny Gundam
+MLS1 RX-78 G30th Metal Frame
+MLS1 OO Trans-Am Raiser
 
-◆ Special Variation
-▷ Aile Strike Gundam (PSoff)
-▷ RX-78 Special Color 
-▷ RX-78 v1.5 : v.kawaguchi
-▷ Zaku II v2.0 : v.kawaguchi
-▷ Zaku II v2.0  Real type
-▷ RX-78 OYW : Yahoo!
-▷ RX-78 OYW : G3
-▷ RX-78 OYW : Gundam Crisis
-▷ Aile Strike + Bazooka
-▷ Zaku II R1 v2.0 ver. Proshop
-▷ Wing 0 Custom Pearl gloss
-▷ Ball Factory Image Color
-▷ Musha Mk-II ver. Tokugawa
-▷ Heine's Destiny Gundam
-▷ RX-78 G30th Metal Frame
-▷ OO Trans-Am Raiser
+MLS1 RX-79G Forest type A
+MLS1 RX-79G Forest type B
+MLS1 RX-79G Forest type C
+MLS1 RX-79G Cold type A
+MLS1 RX-79G Cold type B
+MLS1 RX-79G Cold type C
+MLS1 RX-79G Desert type A
+MLS1 RX-79G Desert type B
+MLS1 RX-79G Desert type C
 
-◆ RX-79[G] Special
-▷ RX-79G Forest type A
-▷ RX-79G Forest type B
-▷ RX-79G Forest type C
-▷ RX-79G Cold type A
-▷ RX-79G Cold type B
-▷ RX-79G Cold type C
-▷ RX-79G Desert type A
-▷ RX-79G Desert type B
-▷ RX-79G Desert type C
+MLS1 RX-78 all clear
+MLS1 Zaku II Char's all clear
+MLS1 Zaku II all clear
+MLS1 Zeta Gundam gold
+MLS1 Gundam NT-1 gold
+MLS1 Zaku II F2 : Blue Clear
+MLS1 Zaku II F2 : Red Clear
+MLS1 Zaku II F2 : All Clear
 
-◆ Contest Award
-▷ RX-78 all clear
-▷ Zaku II Char's all clear
-▷ Zaku II all clear
-▷ Zeta Gundam gold
-▷ Gundam NT-1 gold
-▷ Zaku II F2 : Blue Clear
-▷ Zaku II F2 : Red Clear
-▷ Zaku II F2 : All Clear
+*PG Catalog
 
 P01 RX-78 Gundam
 P02 Zaku II
@@ -875,18 +860,18 @@ PC2 RX-78 Custom set #2
 PC3 Zaku II Custom set #1
 
 
-Limited RX-78 Casval's Coating
-RX-78 G-3 Silver Coating
-RX-78 Amro's Coating
-RX-78 Anime Color
-RX-78 大河原邦男 ver.Gundam Mk-II Extra Finish
-Z Gundam Multi Coating
-Wing 0 Custom Pearl Clear
-Aile Striker Pearl Clear 
-O raiser Clear Parts
+PLS1 Limited RX-78 Casval's Coating
+PLS1 RX-78 G-3 Silver Coating
+PLS1 RX-78 Amro's Coating
+PLS1 RX-78 Anime Color
+PLS1 RX-78 大河原邦男 ver.Gundam Mk-II Extra Finish
+PLS1 Z Gundam Multi Coating
+PLS1 Wing 0 Custom Pearl Clear
+PLS1 Aile Striker Pearl Clear 
+PLS1 O raiser Clear Parts
 
-- IBO LINE -
-▶ 1/100
+* IBO Catalog
+
 ib101 Gundam Barbatos
 ib102 Graze (Std./Cmd.)
 ib103 Schwalbe Graze
@@ -897,13 +882,11 @@ ib107 Grimgerde
 ib108 Graze Custom
 ib109 Gundam Kimaris Trooper
 
-▶ 1/100 Full Mechanics
 fm01 Gundam Barbatos Lupus
 fm02 Gundam Vidar
 fm03 Barbatos Lupus Rex
 fm04 Gundam Bael
 
-▶ HG
 ibh01 Gundam Barbatos
 ibh02 Graze (Std./Cmd.)
 ibh03 Schwalbe Graze
@@ -946,18 +929,13 @@ ibh39 Astaroth Rinascimento
 ibh40 Gundam Marchosias
 ibh41 Gundam Hajiroboshis
 
-- SEED LINE - 
-▶ 1/60 Real Detail
+* Seed Catalog
 
 RD01 Strike Gundam
 RD02 Striker Weapon System
 RD03 Freedom Gundam
 RD04 Force Impulse Gundam
 LE01 Strike Freedom Gundam
-
- 
-
-▶ 1/100
 
 S101 Aile Strike Gundam
 S102 Aegis Gundam
@@ -970,10 +948,9 @@ S108 Justice Gundam
 S109 Blitz Gundam
 S110 Gundam Astray (Red)
 S111 Providence Gundam
-S112 Astray Blue Frame 2ndL 
+S112 Astray Blue Frame 2ndL
 S113 Astray Gold Frame
 
-◇ SEED Destiny
 d101 Force impulse Gundam
 d102 Chaos Gundam
 d103 Gunner Zaku Warrior (L)
@@ -983,8 +960,7 @@ d106 Zaku Warrior(Gun/Blaze)
 d107 Blaze Zaku Phantom (H)
 d108 Destiny Gundam
 d109 Strike Freedom Gundam
-d110 Force/Sword Impulse
-       Gundam : Extra Finish
+d110 Force/Sword Impulse Gundam : Extra Finish
 d111 Infinite Justice Gundam
 d112 Legend Gundam
 d113 Astray Gold fr. Amatsu
@@ -999,10 +975,6 @@ d121 Astray Mirage Frame
 d122 Vent Saviour Gundam
 d123 Nebular Blitz Gundam
 d123 Astray M.F. 2nd Issue
-
- 
-
-▶ 1/144 HG
 
 SH01 Aile Strike Gundam
 SH02 Duel Gundam (A.S.)
@@ -1021,7 +993,6 @@ SH14 Providence Gundam
 SH15 Mobile Cgue
 SH16 Meteor Unit
 
-◇ SEED MSV
 SHV01 Strike Rouge + IWSP
 SHV02 Migel's Mobile Ginn
 SHV03 Ginn High Maneuver
@@ -1030,7 +1001,6 @@ SHV05 Cgue DEEP Arms
 SHV06 Dagger+Gun Barrel
 SHV07 Dreadnaught Gundam
 
-◇ SEED Destiny
 SH17 Force Impulse Gundam
 SH18 Zaku Warrior
 SH19 Chaos Gundam
@@ -1057,11 +1027,8 @@ SH39 Murasame (양산형)
 SH40 Oowashi Akatsuki
 SH48 Mobile BuCUE
 SH50 Gouf Ignited (Izak's)
-SH51 Blaze Zaku Phantom
-        (Dearka's)
+SH51 Blaze Zaku Phantom (Dearka's)
 
-
-◇ EED C.E.73 Stargzaer
 SH41 Strike Noir Gundam
 SH42 Verde Buster Gundam
 SH43 105 Slaughter Dagger
@@ -1071,14 +1038,12 @@ SH46 Kerberos BuCUE Hound
 SH47 Stargazer Gundam
 SH49 Civilian Astray DSSD C.
 
-◇ SEED Frame Astrays
 SH52 Rudolf's Gouf Ignited
 SH53 Alec's K. BuCue Hound
 SH54 Xist's Mobile Cgue
 SH55 Trojan's GA Green Frm.
 SH56 Leon's AA PMC Custom
 
-◇ SEED Remaster Ver.
 SR01 Aile Strike Gundam
 SR02 Duel Gundam (A.S.)
 SR03 Buster Gundam
@@ -1097,14 +1062,10 @@ SR15 Freedom Gundam
 SR16 M1 Astray
 SR17 Perfect Strike Gundam
 
-◇ Astray Beta / R
 SH57 Astray Blue Frame 2nd L
 SH58 Astray Red Frame F.U.
 SH59 Astray Gold Amatsu Mina
 
- 
-
-▶ 1/144
 S00 Gundam Astray Red
 S01 Strike Gundam
 S02 Duel Gundam
@@ -1142,7 +1103,6 @@ d12 Slash Zaku Phantom
 d13 Destiny Gundam
 d14 Strike Freedom Gundam
 
-▶ Limited version
 SL01 Astray Gold frame
 SL02 Astray Red frame 2nd. L
 SL03 Freedom gundam PSoff
@@ -1151,24 +1111,15 @@ S109c Blitz Gundam Clear
 S110c Red Frame. Clear
 S112c Blue Frame 2nd L Clear
 SH36c HG Destiny Clear
-S1c1 Strike Freedom vs.
-        Legend Color Clear ver.
-S1c2 Destiny vs.Infinite Justice
-        Clear Color ver.
-dzwc 1/100 Zaku Warrior
-         Live Concert Extra Finish
+S1c1 Strike Freedom vs. Legend Color Clear ver.
+S1c2 Destiny vs.Infinite Justice Clear Color ver.
+dzwc 1/100 Zaku Warrior Live Concert Extra Finish
 SH59a Astray Gold Amatsu
 SH59g Astray Gold Frame
- 
 
-- 00 LINE -
-▶ 1/60
+* 00 Catalog
 
 0601 Gundam Exia
-
- 
-
-▶ 1/100
 
 0101 Gundam Exia
 0102 Gundam Dynames
@@ -1190,10 +1141,6 @@ SH59g Astray Gold Frame
 0118 Cherudim des'color
 0119 Arios des'color
 0120 Seravee des'color
-
- 
-
-▶ High Grade
 
 0h01 Gundam Exia
 0h02 Union Flag
@@ -1244,7 +1191,7 @@ SH59g Astray Gold Frame
 0h47 Hiling Care's Garazzo
 0h48 Cherudim GNHW/R
 0h49 Gaddess
-0h50 Arios GNHW/M  
+0h50 Arios GNHW/M
 0h51 Seravee GNHW/B
 0h52 O Gundam
 0h53 Reborns Gundam
@@ -1252,8 +1199,8 @@ SH59g Astray Gold Frame
 0h55 Masurao
 0h56 Cherudim Trans-AM
 0h57 Arios Trans-AM
-0h58 Seravee Trans-AM 
-0h59 Susanowo Trans-AM 
+0h58 Seravee Trans-AM
+0h59 Susanowo Trans-AM
 0h60 Reborns Trans-AM
 0h61 OO Gundam 7 Sword
 0h62 Gundam Astraea type-F
@@ -1268,28 +1215,16 @@ SH59g Astray Gold Frame
 0h71 Brave Commander
 0h72 Brave Standard
 
- 
-
-▶ First Grade
-
 0f01 Gundam Exia
 0f02 Gundam Dynames
 0f03 Gundam Kyrios
 0f04 Gundam Virtue
-
- 
-
-▶ Special
 
 00s1 Gundam Astraea
 00s2 Gundam Rasiel
 00s3 GN Sefer
 00s4 XN Raiser
 sod GN Sword Full Saber
-
- 
-
-▶ Limited Version
 
 0s01 HG Exia : Clear Color
 0s02 HG Exia : Metalic ver.
@@ -1311,15 +1246,10 @@ sod GN Sword Full Saber
 0h68cl Harute Color
 0h69cl Raphael Clear Color
 
--AGE Line-
-▶ 1/48 MetaSize
+* AGE Catalog
 
 agm1 AGE-1 Normal
 agm2 AGE-2 Normal
-
- 
-
-▶ High Grade
 
 agh01  AGE-1 Normal
 agh02  Gafran
@@ -1357,11 +1287,6 @@ agh33  Shaldoll Rogue
 agh34  G-xiphos
 agh35  AGE-1 Full Glansa
 
-
- 
-
-▶ Advanced Grade
-
 ag01  AGE-1 Normal
 ag02  Gafran
 ag03  Genoace
@@ -1386,9 +1311,6 @@ ag21   AGE-2 Dark Hound
 ag22   G Exes Jackedge
 ag23   Gundam Legilis
 ag24   Gundam AGE-FX
- 
-
-Limited Version
 
 AGE-1 Normal - Coating
 AGE-2 SPver.
@@ -1439,7 +1361,6 @@ BDR41 Try Slash Blade
 BDR42 Core Gundam II (G-3)
 BDR43 Core Gundam II (Titans)
 
-▶ Build Divers
 BD0 Gundam OO Diver
 BD1 Gundam Age II Magnum
 BD2 GM III Beam Master
@@ -1470,7 +1391,6 @@ BD25 GBN-Base Gundam
 BD26 RX-Zeromaru SKKS
 BD27 Gundam Zerachiel
 
-▶ Haro Pla
 HP1 Green/Red/Orange
 HP4 Momo Haro
 HP5 Control Blue
@@ -1485,7 +1405,6 @@ HPHK Hello Kitty x Haro
 HP13 Haroloader
 HP14 Harofitter
 
-▶ Build Fighters
 BF1 Build Strike Gundam F.P.
 BF2 Zaku Amazing
 BF3 Gundam X Maoh
@@ -1555,7 +1474,6 @@ BF65 Striker GN-X
 BF66 Build Strike Galaxy Cos.
 BF67 Mrs. Roheng-Rinko
 
-▶ Build Custom
 BC0 Build Custom GP Base
 BC1 Build Booster
 BC2 Amazing Booster
@@ -1604,7 +1522,6 @@ BC44 Build Hands Round
 BC45 Noname Rifle
 BC46 HWS & SV Weapon Set
 
-▶ Petit'gguy
 hpg1~4 Petit'sgguy : 4 colors
 hpg5~6 Petit'sgguy : 2 colors
 hpg7 Panda'gguy
@@ -1627,7 +1544,6 @@ hpg26 Chara'gguy Ayame
 hpg27 Chara'gguy Sarah
 hpg28 Petit'gguy Justi'gguy
 
-▶ Gunpla Builders
 GB1 Beginning Gundam
 GB2 Hi-nu Gundam GPB Color
 GB3 Super Custom Zaku F2000
@@ -1642,12 +1558,10 @@ GB7 Beginning J Gundam
 GB8 Beginning D Gundam
 GB4p2 Pink Beargguy
 
--MISC KITS-
+* Miscellaneous Catalog
 
-● Entry Grade
 egx01 RX-78 Gundam
 
-● RE/100
 RE01 Nightingale
 RE02 Gundam Mk-III
 RE03 Gundam GP04G Gerbera
@@ -1662,31 +1576,26 @@ RE11 Gun EZ
 RE12 Vigna-Ghina II
 RE13 Zaku II FZ
 
-● Hi-Resolution Model
 HiRM01 Gundam Barbatos
 HiRM02 Wing Gundam 0 EW
 HiRM03 Astray Red Frame
 HiRM04 Astray Noir
 HiRM05 God Gundam
 
-● First Grade
 fg1 1/144 RX-78 Gundam
 fg2 1/144 Char's Zaku II
 fg3 1/144 Zaku II
 
-● Entry Grade(E)
 eg1 1/144 OO Gundam
 eg2 1/144 Gundam Exia
 eg3 1/144 RX-78 Gundam
 eg4 1/144 Strike Gundam
 
-● Speed Grade
 sg1 1/200 RX-78 Gundam
 sg2 1/200 Wing Gundam
 sg3 1/200 Z Gundam
 sg4 1/200 G Gundam
 
-● HY2M
 1/24 Gundam RX-78
 Glorious 1/60 Rickdom
 Glorious 1/60 Gouf
@@ -1694,7 +1603,6 @@ Glorious 1/60 Gouf
 GCI3 Queen Mansa
 GCI4 Big-Zam
 
-● Mega Size Model
 ms1 RX-78 Gundam
 ms2 Char Zaku II
 ms3 Zaku II
@@ -1702,7 +1610,6 @@ ms1a RX-78 Gundam ANA
 ms1r RX-78 Gundam GP
 ms6 Unicorn Gundam DM
 
-● Cup Noodle Gunpla
 cup1  1/380 Gundam 30th
 cup2  1/380 Char Clear
 cup3  1/200 Cup Noodle 40th
