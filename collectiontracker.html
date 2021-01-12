@@ -1,5 +1,40 @@
 <!DOCTYPE html>
 <html>
+<style>
+  body
+  {
+    background-color: #0093E9;
+    background-image: linear-gradient(90deg, #0093E9 0%, #80D0C7 100%);
+  }
+
+  .collapsible
+  {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+
+  .active, .collapsible:hover
+  {
+    background-color: #555;
+  }
+
+  .content
+  {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #0093E9;
+    background-image: linear-gradient(90deg, #0093E9 0%, #80D0C7 100%);
+  }
+</style>
   <head>
     <title>collection tracker proto</title>
   </head>
@@ -2503,5 +2538,27 @@
         <br><br>
       </p>
     </div>
+
+    <script>
+      var coll = document.getElementsByClassName("collapsible");
+      var i;
+
+      for (i = 0; i < coll.length; i++)
+      {
+        coll[i].addEventListener("click", function()
+        {
+          this.classList.toggle("active");
+          var content = this.nextElementSibling;
+          if (content.style.maxHeight)
+          {
+            content.style.maxHeight = null;
+          }
+          else
+          {
+          content.style.maxHeight = content.scrollHeight + "px";
+          }
+        });
+      }
+    </script>
   </body>
 </html>
