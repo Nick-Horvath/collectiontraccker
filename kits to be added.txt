@@ -23,82 +23,6 @@ RD03 Freedom Gundam
 RD04 Force Impulse Gundam
 LE01 Strike Freedom Gundam
 
-S101 Aile Strike Gundam
-S102 Aegis Gundam
-S103 Buster Gundam
-S104 Sword Strike Gundam
-S105 Launcher Strike Gundam
-S106 Duel Gundam (A.S.)
-S107 Freedom Gundam
-S108 Justice Gundam
-S109 Blitz Gundam
-S110 Gundam Astray (Red)
-S111 Providence Gundam
-S112 Astray Blue Frame 2ndL
-S113 Astray Gold Frame
-
-d101 Force impulse Gundam
-d102 Chaos Gundam
-d103 Gunner Zaku Warrior (L)
-d104 Blaze Zaku Phantom
-d105 Sword Impulse Gundam
-d106 Zaku Warrior(Gun/Blaze)
-d107 Blaze Zaku Phantom (H)
-d108 Destiny Gundam
-d109 Strike Freedom Gundam
-d110 Force/Sword Impulse Gundam : Extra Finish
-d111 Infinite Justice Gundam
-d112 Legend Gundam
-d113 Astray Gold fr. Amatsu
-d114 Saviour Gundam
-d115 Akatsuki Gundam fullset
-d116 Astray Green Frame
-d117 Gale Strike Gundam
-d118 Hail Buster Gundam
-d119 Regen Duel Gundam
-d120 Nix Providence Gundam
-d121 Astray Mirage Frame
-d122 Vent Saviour Gundam
-d123 Nebular Blitz Gundam
-d123 Astray M.F. 2nd Issue
-
-S00 Gundam Astray Red
-S01 Strike Gundam
-S02 Duel Gundam
-S03 Aegis Gundam
-S04 Mobile Ginn
-S05 Gundam Astray Blue
-S06 Buster Gundam
-S07 Blitz Gundam
-S08 Sword Strike Gundam
-S09 Launcher Strike Gundam
-S10 Mobile BuCUE
-S11 Freedom Gundam
-S12 Justice Gundam
-S13 Mobile Goohn
-S14 Calamity Gundam
-S15 Forbidden Gundam
-S16 Raider Gundam
-S17 Mobile Suits GuAIZ
-S18 Mobile Dinn
-S19 Providence Gundam
-S20 Strike Dagger
-S21 M1 Astray
-d01 Force Impulse Gundam
-d02 Zaku Warrior
-d03 Chaos Gundam
-d04 Gaia Gundam
-d05 Sword Impulse Gundam
-d06 Gunner Zaku Warrior
-d07 Abyss Gundam
-d08 Blaze Zaku Ph. Rey
-d09 Saviour Gundam
-d10 Blaze Zaku Ph. Heine
-d11 Blast Impuse Gundam
-d12 Slash Zaku Phantom
-d13 Destiny Gundam
-d14 Strike Freedom Gundam
-
 SL01 Astray Gold frame
 SL02 Astray Red frame 2nd. L
 SL03 Freedom gundam PSoff
@@ -174,33 +98,6 @@ sod GN Sword Full Saber
 agm1 AGE-1 Normal
 agm2 AGE-2 Normal
 
-
-
-ag01  AGE-1 Normal
-ag02  Gafran
-ag03  Genoace
-ag04  Genoace Custom
-ag05  AGE-1 Titus
-agh6  Zedas
-ag07  AGE-1 Spallow
-ag08  G Exes
-ag09  AGE-2 Normal
-ag10  Adele
-ag11  Genoace II
-ag12  Zeydra
-ag13  G Bouncer
-ag14  Khronos
-ag15   AGE-2 Double Bullet
-ag16   Dorado
-ag17   AGE-3 Normal
-ag18   Ghiraga
-ag19   AGE-3 Orbital
-ag20   AGE-3 Fortress
-ag21   AGE-2 Dark Hound
-ag22   G Exes Jackedge
-ag23   Gundam Legilis
-ag24   Gundam AGE-FX
-
 AGE-1 Normal - Coating
 AGE-2 SPver.
 
@@ -263,30 +160,3 @@ HiRM02 Wing Gundam 0 EW
 HiRM03 Astray Red Frame
 HiRM04 Astray Noir
 HiRM05 God Gundam
-
-fg1 1/144 RX-78 Gundam
-fg2 1/144 Char's Zaku II
-fg3 1/144 Zaku II
-
-sg1 1/200 RX-78 Gundam
-sg2 1/200 Wing Gundam
-sg3 1/200 Z Gundam
-sg4 1/200 G Gundam
-
-1/24 Gundam RX-78
-Glorious 1/60 Rickdom
-Glorious 1/60 Gouf
-
-GCI3 Queen Mansa
-GCI4 Big-Zam
-
-ms1 RX-78 Gundam
-ms2 Char Zaku II
-ms3 Zaku II
-ms1a RX-78 Gundam ANA
-ms1r RX-78 Gundam GP
-ms6 Unicorn Gundam DM
-
-cup1  1/380 Gundam 30th
-cup2  1/380 Char Clear
-cup3  1/200 Cup Noodle 40th
