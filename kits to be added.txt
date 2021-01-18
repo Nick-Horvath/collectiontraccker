@@ -1,20 +1,3 @@
-* IBO Catalog
-
-ib101 Gundam Barbatos
-ib102 Graze (Std./Cmd.)
-ib103 Schwalbe Graze
-ib104 Gusion/Gusion Rebake
-ib105 Barbatos 6th Form
-ib106 Gundam Kimaris
-ib107 Grimgerde
-ib108 Graze Custom
-ib109 Gundam Kimaris Trooper
-
-fm01 Gundam Barbatos Lupus
-fm02 Gundam Vidar
-fm03 Barbatos Lupus Rex
-fm04 Gundam Bael
-
 * Seed Catalog
 
 RD01 Strike Gundam
@@ -23,44 +6,9 @@ RD03 Freedom Gundam
 RD04 Force Impulse Gundam
 LE01 Strike Freedom Gundam
 
-SL01 Astray Gold frame
-SL02 Astray Red frame 2nd. L
-SL03 Freedom gundam PSoff
-SL05 Blue Frame. 2nd L EF
-S109c Blitz Gundam Clear
-S110c Red Frame. Clear
-S112c Blue Frame 2nd L Clear
-SH36c HG Destiny Clear
-S1c1 Strike Freedom vs. Legend Color Clear ver.
-S1c2 Destiny vs.Infinite Justice Clear Color ver.
-dzwc 1/100 Zaku Warrior Live Concert Extra Finish
-SH59a Astray Gold Amatsu
-SH59g Astray Gold Frame
-
 * 00 Catalog
 
 0601 Gundam Exia
-
-0101 Gundam Exia
-0102 Gundam Dynames
-0103 Gundam Kyrios
-0104 Gundam Virtue
-0105 Gundam Astraea
-0106 Over Flag
-0107 Tieren Ground Type
-0108 Gundam Astraea type-F
-0109 Gundam Avalnche Exia
-0110 Gundam Exia(Trans-AM)
-0111 00 Gundam
-0112 Oraiser
-0113 OOraiser
-0114 Cherudim Gundam
-0115 Arios Gundam
-0116 Seravee Gundam
-0117 OOraiser des'color
-0118 Cherudim des'color
-0119 Arios des'color
-0120 Seravee des'color
 
 0f01 Gundam Exia
 0f02 Gundam Dynames
@@ -73,26 +21,6 @@ SH59g Astray Gold Frame
 00s4 XN Raiser
 sod GN Sword Full Saber
 
-0s01 HG Exia : Clear Color
-0s02 HG Exia : Metalic ver.
-0s03 1/100 Exia : Roll Out
-0s04 1/60 Exia : Clear Color
-0s05 1/60 Exia : Trans-Am
-0s06 HG OOraiser Clear Col.
-0s07 Exia+O gundam Clear
-0h37a HG OOraiser ANA
-0hocc OO+Cherudim Clr.
-0hssc Serabee+Seraphim Clr.
-0haac Arios+GN Archer Clr
-0h61i Seven Sword Inspection
-0h63d 1.5 Gundam type Dark
-0h37co OOraiser Metalic Coat.
-0hfas OverFlag+Ahead Gross
-0h66cl OO QAN[T] Clear Color
-0h67cl Zabanya Clear Color
-0h68cl Harute Color
-0h69cl Raphael Clear Color
-
 * AGE Catalog
 
 agm1 AGE-1 Normal
@@ -101,62 +29,4 @@ agm2 AGE-2 Normal
 AGE-1 Normal - Coating
 AGE-2 SPver.
 
--Build LINE -
 
-
-HP1 Green/Red/Orange
-HP4 Momo Haro
-HP5 Control Blue
-HP6 Happy Yellow
-HP7 Ball Haro
-HP8 Mobile Haro
-HP9 Haro Eternal Pink
-HP10 Black 3 Star Haro
-HP11 Zakrello Haro
-HP12 Basic Green
-HPHK Hello Kitty x Haro
-HP13 Haroloader
-HP14 Harofitter
-
-hpg7 Panda'gguy
-hpg8 Green & Guitar
-hpg9 Purple & Drum
-hpg10 Cat & Dog Cos
-hpg12 Icecandy & Chocolate
-hpg14 Pink & Petitpetit'gguy
-hpg15 Orange & Grey Placard
-hpg17 Chara'gguy Fumina
-hpg18 Chara'gguy Gyanko
-hpg19 Setsuna Blue & Placard
-hpg20 Rockon Green & Placard
-hpg21 Graham White & Placard
-hpg22 Allelujah Orange & P.C.
-hpg23 Tieria Purple & Placard
-hpg24 Divers Blue & P.C.
-hpg25 Chara'gguy Momo
-hpg26 Chara'gguy Ayame
-hpg27 Chara'gguy Sarah
-hpg28 Petit'gguy Justi'gguy
-
-
-* Miscellaneous Catalog
-
-RE01 Nightingale
-RE02 Gundam Mk-III
-RE03 Gundam GP04G Gerbera
-RE04 Dijeh
-RE05 Efreet Custom
-RE06 Bawoo
-RE07 Hamma-Hamma
-RE08 Guncannon Detector
-RE09 Vigna-Ghina
-RE10 Gyunei Guss's Jagd Doga
-RE11 Gun EZ
-RE12 Vigna-Ghina II
-RE13 Zaku II FZ
-
-HiRM01 Gundam Barbatos
-HiRM02 Wing Gundam 0 EW
-HiRM03 Astray Red Frame
-HiRM04 Astray Noir
-HiRM05 God Gundam
