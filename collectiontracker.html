@@ -48,7 +48,7 @@
   </style>
 
   <body>
-    <button type = 'button' class = 'collapsible'>High Grade Kits</button>
+    <button type = 'button' id = hg class = 'collapsible'>High Grade Kits</button>
     <div class = 'content'><!-- done -->
       <p><!-- general high grades DONE-->
         <strong> Standard High Grade Catalouge </strong>
@@ -1429,7 +1429,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'>Miscellaneous 1/144 Scale Kits</button>
+    <button type = 'button' id = m144 class = 'collapsible'>Miscellaneous 1/144 Scale Kits</button>
     <div class = 'content'><!-- done -->
       <p><!-- general seed 1/144 DONE-->
         <strong> Gundam Seed 1/144 Scale (non-high grade) Catalog</strong>
@@ -1512,7 +1512,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'>Real Grade Kits</button>
+    <button type = 'button' id = rg class = 'collapsible'>Real Grade Kits</button>
     <div class = 'content'><!-- done -->
       <p><!-- general real grades DONE-->
         <strong>General Real Grade Catalouge</strong>
@@ -1589,7 +1589,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Master Grade Kits</button>
+    <button type = 'button' id = mg class = 'collapsible'> Master Grade Kits</button>
     <div class = 'content'><!-- DONE -->
       <p><!-- general master grades DONE-->
         <strong> General Master Grade Kits </strong>
@@ -2396,7 +2396,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Miscellaneous 1/100 Scale (non-master grade) Kits</button>
+    <button type = 'button' id = m100 class = 'collapsible'> Miscellaneous 1/100 Scale (non-master grade) Kits</button>
     <div class = 'content'><!-- Done -->
       <p><!-- seed 1/100 kits DONE-->
         <strong> Gundam Seed 1/100 Catalog </strong>
@@ -2602,7 +2602,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Perfect Grade Kits</button>
+    <button type = 'button' id = pg class = 'collapsible'> Perfect Grade Kits</button>
     <div class = 'content'><!-- Done -->
       <p><!-- general perfects DONE-->
         <strong> General Perfect Grade Catalouge</strong>
@@ -2685,7 +2685,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Miscellaneous Grade Kits</button>
+    <button type = 'button' id = mgk class = 'collapsible'> Miscellaneous Grade Kits</button>
     <div class = 'content'><!-- done -->
       <p><!-- entry grades DONE-->
         <strong> Entry Grade Catalouge </strong>
@@ -2804,7 +2804,7 @@
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Special/Limited Edition Kits </button>
+    <button type = 'button' id = sl class = 'collapsible'> Special/Limited Edition Kits </button>
     <div class = 'content'><!-- done -->
       <p><!-- s/l high grades DONE-->
           <strong> Special Limited High Grade Catalouge</strong>
@@ -3044,14 +3044,16 @@
       </p>
       <p><!-- age s/l DONE-->
         <input type = 'checkbox' id = 'AGE1'> AGE-1 Normal - Coating
+        <br>
         <input type = 'checkbox' id = 'AGE2'> AGE-2 SPver.
+        <br><br>
       </p>
     </div>
 
     <div class = 'divider'>
     </div>
 
-    <button type = 'button' class = 'collapsible'> Remaining Miscellaneous Kits </button>
+    <button type = 'button' id = rmk class = 'collapsible'> Remaining Miscellaneous Kits </button>
     <div class = 'content'><!-- done -->
       <p><!-- misc kits done -->
         <strong> Remaining Miscelaneous Catalog </strong>
